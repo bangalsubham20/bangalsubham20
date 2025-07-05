@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/K-Nishant-18/Profile-assets/blob/main/GitHub-Animated-Logo.gif?raw=true" alt="GitHub Animated Logo" height="180" />
+  <img src="https://github.com/K-Nishant-18/Profile-assets/blob/main/GitHub-Animated-Logo.gif?raw=true" alt="GitHub Animated Logo" height="100" />
 </p>
 
 <h1 align="center">Hi there, I'm Subham Bangal 👋</h1>
