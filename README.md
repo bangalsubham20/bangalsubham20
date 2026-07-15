@@ -3,10 +3,31 @@
 </p>
 
 <h1 align="center">Hi there, I'm Subham Bangal 👋</h1>
-<h3 align="center">Backend Developer | Java & Spring Boot | DevOps Enthusiast</h3>
+
+---
+
+<h3 align="center">Backend Developer | Java & Spring Boot | DevOps Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2b83e7&center=true&vCenter=true&width=800&lines=☕+Java+%7C+Spring+Boot+%7C+Spring+Security;🐳+Docker+%7C+Jenkins+%7C+GitHub+Actions+CI%2FCD;☁️+AWS+Cloud+%7C+REST+APIs+%7C+JWT;🔐+Building+Secure+%26+Scalable+Backends" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=2B83E7&center=true&vCenter=true&width=800&lines=Java+%7C+Spring+Boot+%7C+Spring+Security;Docker+%7C+CI%2FCD+%7C+GitHub+Actions;AWS+%7C+REST+APIs+%7C+JWT;Jenkins+%7C+Linux+%7C+Microservices" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="mailto:bangalsubham@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/bangalsubham20/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://subhambangal.me">
+    <img src="https://img.shields.io/badge/PORTFOLIO-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@bangalsubham_20">
+    <img src="https://img.shields.io/badge/MEDIUM-000000?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://x.com/bangalsubham20">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
 </p>
 
 ---
